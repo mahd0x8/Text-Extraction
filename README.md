@@ -1,6 +1,8 @@
 # Text-Extraction
 International Collaboration Fund PLUS (ICF PLUS) Application Form Text Extractor
 
+![screenshot](https://drive.google.com/uc?id=1zQdk0vi-McRnj66gEyyJCxROlEsFs4wE)
+
 ## Table of Contents
 #### Introduction
 #### Features

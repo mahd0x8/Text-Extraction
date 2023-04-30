@@ -54,7 +54,7 @@ Note: Make sure to have a working internet connection, as the application uses v
 8. To exit the application, click on the "Exit" button in the main menu or press escape.
 
 ## Screenshots
-
+![none](https://drive.google.com/file/d/1NreFOcLMlwZfp4wYdPUjOSEniphCl6eX/view?usp=sharing)
 
 ## License
 Copyright 2023 mahd0x8
